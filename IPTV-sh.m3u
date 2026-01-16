@@ -267,3 +267,484 @@ http://124.93.18.238:9002/hls/43/index.m3u8
 
 #EXTINF:-1 group-title="卫视频道",厦门卫视
 http://124.93.18.238:9002/hls/55/index.m3u8
+
+## --- 4K频道 ---
+#EXTINF:-1 group-title="4K频道",CCTV4K
+http://58.35.103.48:3333/rtp/233.18.204.188:5140
+#EXTINF:-1 group-title="4K频道",CCTV4K
+http://58.35.103.48:3333/rtp/233.18.204.204:5140
+#EXTINF:-1 group-title="4K频道",CCTV4K
+http://218.81.49.95:10010/rtp/233.18.204.188:5140
+#EXTINF:-1 group-title="4K频道",CCTV4K
+http://218.81.49.95:10010/rtp/233.18.204.204:5140
+
+#EXTINF:-1 group-title="4K频道",CCTV16 4K
+http://58.35.103.48:3333/rtp/233.18.204.114:5140
+#EXTINF:-1 group-title="4K频道",CCTV16 4K
+http://58.35.103.48:3333/rtp/233.18.204.215:5140
+#EXTINF:-1 group-title="4K频道",CCTV16 4K
+http://218.81.49.95:10010/rtp/233.18.204.114:5140
+#EXTINF:-1 group-title="4K频道",CCTV16 4K
+http://218.81.49.95:10010/rtp/233.18.204.215:5140
+
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://58.35.103.48:3333/rtp/233.18.204.209:5140
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://218.81.49.95:10010/rtp/233.18.204.209:5140
+
+#EXTINF:-1 group-title="4K频道",东方卫视4K
+http://58.35.103.48:3333/rtp/233.18.204.224:5140
+#EXTINF:-1 group-title="4K频道",东方卫视4K
+http://218.81.49.95:10010/rtp/233.18.204.224:5140
+
+#EXTINF:-1 group-title="4K频道",广东卫视4K
+http://58.35.103.48:3333/rtp/233.18.204.218:5140
+#EXTINF:-1 group-title="4K频道",广东卫视4K
+http://218.81.49.95:10010/rtp/233.18.204.218:5140
+
+#EXTINF:-1 group-title="4K频道",深圳卫视4K
+http://58.35.103.48:3333/rtp/233.18.204.219:5140
+#EXTINF:-1 group-title="4K频道",深圳卫视4K
+http://218.81.49.95:10010/rtp/233.18.204.219:5140
+
+#EXTINF:-1 group-title="4K频道",湖南卫视4K
+http://58.35.103.48:3333/rtp/233.18.204.227:5140
+#EXTINF:-1 group-title="4K频道",湖南卫视4K
+http://218.81.49.95:10010/rtp/233.18.204.227:5140
+
+#EXTINF:-1 group-title="4K频道",山东卫视4K
+http://58.35.103.48:3333/rtp/233.18.204.228:5140
+#EXTINF:-1 group-title="4K频道",山东卫视4K
+http://218.81.49.95:10010/rtp/233.18.204.228:5140
+
+#EXTINF:-1 group-title="4K频道",四川卫视4K
+http://58.35.103.48:3333/rtp/233.18.204.225:5140
+#EXTINF:-1 group-title="4K频道",四川卫视4K
+http://218.81.49.95:10010/rtp/233.18.204.225:5140
+
+#EXTINF:-1 group-title="4K频道",浙江卫视4K
+http://58.35.103.48:3333/rtp/233.18.204.229:5140
+#EXTINF:-1 group-title="4K频道",浙江卫视4K
+http://218.81.49.95:10010/rtp/233.18.204.229:5140
+
+#EXTINF:-1 group-title="4K频道",江苏卫视4K
+http://58.35.103.48:3333/rtp/233.18.204.226:5140
+#EXTINF:-1 group-title="4K频道",江苏卫视4K
+http://218.81.49.95:10010/rtp/233.18.204.226:5140
+
+#EXTINF:-1 group-title="4K频道",欢笑剧场4K
+http://58.35.103.48:3333/rtp/233.18.204.115:5140
+#EXTINF:-1 group-title="4K频道",欢笑剧场4K
+http://58.35.103.48:3333/rtp/233.18.204.205:5140
+#EXTINF:-1 group-title="4K频道",欢笑剧场4K
+http://218.81.49.95:10010/rtp/233.18.204.115:5140
+#EXTINF:-1 group-title="4K频道",欢笑剧场4K
+http://218.81.49.95:10010/rtp/233.18.204.205:5140
+
+#EXTINF:-1 group-title="4K频道",BesTV4K动画
+http://58.35.103.48:3333/rtp/233.18.204.171:5140
+#EXTINF:-1 group-title="4K频道",BesTV4K动画
+http://218.81.49.95:10010/rtp/233.18.204.171:5140
+
+#EXTINF:-1 group-title="4K频道",BesTV4K电影
+http://58.35.103.48:3333/rtp/233.18.204.169:5140
+#EXTINF:-1 group-title="4K频道",BesTV4K电影
+http://218.81.49.95:10010/rtp/233.18.204.169:5140
+
+#EXTINF:-1 group-title="4K频道",BesTV4K记录
+http://58.35.103.48:3333/rtp/233.18.204.170:5140
+#EXTINF:-1 group-title="4K频道",BesTV4K记录
+http://218.81.49.95:10010/rtp/233.18.204.170:5140
+
+#EXTINF:-1 group-title="4K频道",天翼高清4K
+http://58.35.103.48:3333/rtp/233.18.204.201:5140
+#EXTINF:-1 group-title="4K频道",天翼高清4K
+http://218.81.49.95:10010/rtp/233.18.204.201:5140
+
+## --- 其他频道 (HD) ---
+#EXTINF:-1 group-title="其他频道",CHC影迷电影HD
+http://58.35.103.48:3333/rtp/233.18.204.175:5140
+#EXTINF:-1 group-title="其他频道",CHC影迷电影HD
+http://218.81.49.95:10010/rtp/233.18.204.175:5140
+
+#EXTINF:-1 group-title="其他频道",CHC家庭影院HD
+http://58.35.103.48:3333/rtp/233.18.204.173:5140
+#EXTINF:-1 group-title="其他频道",CHC家庭影院HD
+http://218.81.49.95:10010/rtp/233.18.204.173:5140
+
+#EXTINF:-1 group-title="其他频道",CHC动作电影HD
+http://58.35.103.48:3333/rtp/233.18.204.174:5140
+#EXTINF:-1 group-title="其他频道",CHC动作电影HD
+http://218.81.49.95:10010/rtp/233.18.204.174:5140
+
+#EXTINF:-1 group-title="其他频道",第一剧场HD
+http://58.35.103.48:3333/rtp/233.18.204.184:5140
+#EXTINF:-1 group-title="其他频道",第一剧场HD
+http://218.81.49.95:10010/rtp/233.18.204.184:5140
+
+#EXTINF:-1 group-title="其他频道",风云剧场HD
+http://58.35.103.48:3333/rtp/233.18.204.183:5140
+#EXTINF:-1 group-title="其他频道",风云剧场HD
+http://218.81.49.95:10010/rtp/233.18.204.183:5140
+
+#EXTINF:-1 group-title="其他频道",风云足球HD
+http://58.35.103.48:3333/rtp/233.18.204.176:5140
+#EXTINF:-1 group-title="其他频道",风云足球HD
+http://218.81.49.95:10010/rtp/233.18.204.176:5140
+
+#EXTINF:-1 group-title="其他频道",风云音乐HD
+http://58.35.103.48:3333/rtp/233.18.204.185:5140
+#EXTINF:-1 group-title="其他频道",风云音乐HD
+http://218.81.49.95:10010/rtp/233.18.204.185:5140
+
+#EXTINF:-1 group-title="其他频道",世界地理HD
+http://58.35.103.48:3333/rtp/233.18.204.179:5140
+#EXTINF:-1 group-title="其他频道",世界地理HD
+http://218.81.49.95:10010/rtp/233.18.204.179:5140
+
+#EXTINF:-1 group-title="其他频道",怀旧剧场HD
+http://58.35.103.48:3333/rtp/233.18.204.182:5140
+#EXTINF:-1 group-title="其他频道",怀旧剧场HD
+http://218.81.49.95:10010/rtp/233.18.204.182:5140
+
+#EXTINF:-1 group-title="其他频道",兵器科技HD
+http://58.35.103.48:3333/rtp/233.18.204.178:5140
+#EXTINF:-1 group-title="其他频道",兵器科技HD
+http://218.81.49.95:10010/rtp/233.18.204.178:5140
+
+#EXTINF:-1 group-title="其他频道",女性时尚HD
+http://58.35.103.48:3333/rtp/233.18.204.180:5140
+#EXTINF:-1 group-title="其他频道",女性时尚HD
+http://218.81.49.95:10010/rtp/233.18.204.180:5140
+
+#EXTINF:-1 group-title="其他频道",高尔夫网球HD
+http://58.35.103.48:3333/rtp/233.18.204.181:5140
+#EXTINF:-1 group-title="其他频道",高尔夫网球HD
+http://218.81.49.95:10010/rtp/233.18.204.181:5140
+
+#EXTINF:-1 group-title="其他频道",央视台球HD
+http://58.35.103.48:3333/rtp/233.18.204.177:5140
+#EXTINF:-1 group-title="其他频道",央视台球HD
+http://218.81.49.95:10010/rtp/233.18.204.177:5140
+
+#EXTINF:-1 group-title="其他频道",法治天地HD
+http://58.35.103.48:3333/rtp/233.18.204.49:5140
+#EXTINF:-1 group-title="其他频道",法治天地HD
+http://218.81.49.95:10010/rtp/233.18.204.49:5140
+
+#EXTINF:-1 group-title="其他频道",游戏风云HD
+http://58.35.103.48:3333/rtp/233.18.204.44:5140
+#EXTINF:-1 group-title="其他频道",游戏风云HD
+http://218.81.49.95:10010/rtp/233.18.204.44:5140
+
+#EXTINF:-1 group-title="其他频道",茶频道HD
+http://58.35.103.48:3333/rtp/233.18.204.43:5140
+#EXTINF:-1 group-title="其他频道",茶频道HD
+http://218.81.49.95:10010/rtp/233.18.204.43:5140
+
+#EXTINF:-1 group-title="其他频道",金色学堂HD
+http://58.35.103.48:3333/rtp/233.18.204.66:5140
+#EXTINF:-1 group-title="其他频道",金色学堂HD
+http://218.81.49.95:10010/rtp/233.18.204.66:5140
+
+#EXTINF:-1 group-title="其他频道",金鹰纪实HD
+http://58.35.103.48:3333/rtp/233.18.204.104:5140
+#EXTINF:-1 group-title="其他频道",金鹰纪实HD
+http://218.81.49.95:10010/rtp/233.18.204.104:5140
+
+#EXTINF:-1 group-title="其他频道",快乐垂钓HD
+http://58.35.103.48:3333/rtp/233.18.204.42:5140
+#EXTINF:-1 group-title="其他频道",快乐垂钓HD
+http://218.81.49.95:10010/rtp/233.18.204.42:5140
+
+#EXTINF:-1 group-title="其他频道",生活时尚HD
+http://58.35.103.48:3333/rtp/233.18.204.45:5140
+#EXTINF:-1 group-title="其他频道",生活时尚HD
+http://218.81.49.95:10010/rtp/233.18.204.45:5140
+
+#EXTINF:-1 group-title="其他频道",乐游HD
+http://58.35.103.48:3333/rtp/233.18.204.47:5140
+#EXTINF:-1 group-title="其他频道",乐游HD
+http://218.81.49.95:10010/rtp/233.18.204.47:5140
+
+#EXTINF:-1 group-title="其他频道",动漫秀场HD
+http://58.35.103.48:3333/rtp/233.18.204.46:5140
+#EXTINF:-1 group-title="其他频道",动漫秀场HD
+http://58.35.103.48:3333/rtp/233.18.204.54:5140
+#EXTINF:-1 group-title="其他频道",动漫秀场HD
+http://218.81.49.95:10010/rtp/233.18.204.46:5140
+#EXTINF:-1 group-title="其他频道",动漫秀场HD
+http://218.81.49.95:10010/rtp/233.18.204.54:5140
+
+#EXTINF:-1 group-title="其他频道",金鹰卡通HD
+http://58.35.103.48:3333/rtp/233.18.204.113:5140
+#EXTINF:-1 group-title="其他频道",金鹰卡通HD
+http://218.81.49.95:10010/rtp/233.18.204.113:5140
+
+#EXTINF:-1 group-title="其他频道",卡酷少儿HD
+http://58.35.103.48:3333/rtp/233.18.204.109:5140
+#EXTINF:-1 group-title="其他频道",卡酷少儿HD
+http://218.81.49.95:10010/rtp/233.18.204.109:5140
+
+#EXTINF:-1 group-title="其他频道",上海都市HD
+http://58.35.103.48:3333/rtp/233.18.204.53:5140
+#EXTINF:-1 group-title="其他频道",上海都市HD
+http://218.81.49.95:10010/rtp/233.18.204.53:5140
+
+#EXTINF:-1 group-title="其他频道",上海教育HD
+http://58.35.103.48:3333/rtp/233.18.204.63:5140
+#EXTINF:-1 group-title="其他频道",上海教育HD
+http://218.81.49.95:10010/rtp/233.18.204.63:5140
+
+#EXTINF:-1 group-title="其他频道",第一财经HD
+http://58.35.103.48:3333/rtp/233.18.204.65:5140
+#EXTINF:-1 group-title="其他频道",第一财经HD
+http://58.35.103.48:3333/rtp/233.18.204.59:5140
+#EXTINF:-1 group-title="其他频道",第一财经HD
+http://218.81.49.95:10010/rtp/233.18.204.65:5140
+#EXTINF:-1 group-title="其他频道",第一财经HD
+http://218.81.49.95:10010/rtp/233.18.204.59:5140
+
+#EXTINF:-1 group-title="其他频道",五星体育HD
+http://58.35.103.48:3333/rtp/233.18.204.58:5140
+#EXTINF:-1 group-title="其他频道",五星体育HD
+http://218.81.49.95:10010/rtp/233.18.204.58:5140
+
+#EXTINF:-1 group-title="其他频道",都市剧场HD
+http://58.35.103.48:3333/rtp/233.18.204.48:5140
+#EXTINF:-1 group-title="其他频道",都市剧场HD
+http://218.81.49.95:10010/rtp/233.18.204.48:5140
+
+#EXTINF:-1 group-title="其他频道",欢笑剧场HD
+http://58.35.103.48:3333/rtp/233.18.204.50:5140
+#EXTINF:-1 group-title="其他频道",欢笑剧场HD
+http://58.35.103.48:3333/rtp/233.18.204.55:5140
+#EXTINF:-1 group-title="其他频道",欢笑剧场HD
+http://218.81.49.95:10010/rtp/233.18.204.50:5140
+#EXTINF:-1 group-title="其他频道",欢笑剧场HD
+http://218.81.49.95:10010/rtp/233.18.204.55:5140
+
+#EXTINF:-1 group-title="其他频道",上海新闻综合HD
+http://58.35.103.48:3333/rtp/233.18.204.57:5140
+#EXTINF:-1 group-title="其他频道",上海新闻综合HD
+http://218.81.49.95:10010/rtp/233.18.204.57:5140
+
+#EXTINF:-1 group-title="其他频道",百事通画面HD
+http://58.35.103.48:3333/rtp/233.18.204.158:5140
+http://58.35.103.48:3333/rtp/233.18.204.159:5140
+http://218.81.49.95:10010/rtp/233.18.204.158:5140
+
+## --- 央视频道 (SD) ---
+#EXTINF:-1 group-title="标清频道",CCTV1SD
+http://58.35.103.48:3333/rtp/233.18.204.20:5140
+#EXTINF:-1 group-title="标清频道",CCTV1SD
+http://218.81.49.95:10010/rtp/233.18.204.20:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV2SD
+http://58.35.103.48:3333/rtp/233.18.204.21:5140
+#EXTINF:-1 group-title="标清频道",CCTV2SD
+http://218.81.49.95:10010/rtp/233.18.204.21:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV3SD
+http://58.35.103.48:3333/rtp/233.18.204.22:5140
+#EXTINF:-1 group-title="标清频道",CCTV3SD
+http://218.81.49.95:10010/rtp/233.18.204.22:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV4SD
+http://58.35.103.48:3333/rtp/233.18.204.23:5140
+#EXTINF:-1 group-title="标清频道",CCTV4SD
+http://218.81.49.95:10010/rtp/233.18.204.23:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV5SD
+http://58.35.103.48:3333/rtp/233.18.204.24:5140
+#EXTINF:-1 group-title="标清频道",CCTV5SD
+http://218.81.49.95:10010/rtp/233.18.204.24:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV6SD
+http://58.35.103.48:3333/rtp/233.18.204.25:5140
+#EXTINF:-1 group-title="标清频道",CCTV6SD
+http://218.81.49.95:10010/rtp/233.18.204.25:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV7SD
+http://58.35.103.48:3333/rtp/233.18.204.26:5140
+#EXTINF:-1 group-title="标清频道",CCTV7SD
+http://218.81.49.95:10010/rtp/233.18.204.26:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV8SD
+http://58.35.103.48:3333/rtp/233.18.204.27:5140
+#EXTINF:-1 group-title="标清频道",CCTV8SD
+http://218.81.49.95:10010/rtp/233.18.204.27:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV9SD
+http://58.35.103.48:3333/rtp/233.18.204.40:5140
+#EXTINF:-1 group-title="标清频道",CCTV9SD
+http://218.81.49.95:10010/rtp/233.18.204.40:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV10SD
+http://58.35.103.48:3333/rtp/233.18.204.29:5140
+#EXTINF:-1 group-title="标清频道",CCTV10SD
+http://218.81.49.95:10010/rtp/233.18.204.29:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV11SD
+http://58.35.103.48:3333/rtp/233.18.204.30:5140
+#EXTINF:-1 group-title="标清频道",CCTV11SD
+http://218.81.49.95:10010/rtp/233.18.204.30:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV12SD
+http://58.35.103.48:3333/rtp/233.18.204.31:5140
+#EXTINF:-1 group-title="标清频道",CCTV12SD
+http://218.81.49.95:10010/rtp/233.18.204.31:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV13SD
+http://58.35.103.48:3333/rtp/233.18.204.32:5140
+#EXTINF:-1 group-title="标清频道",CCTV13SD
+http://218.81.49.95:10010/rtp/233.18.204.32:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV14SD
+http://58.35.103.48:3333/rtp/233.18.204.33:5140
+#EXTINF:-1 group-title="标清频道",CCTV14SD
+http://218.81.49.95:10010/rtp/233.18.204.33:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV15SD
+http://58.35.103.48:3333/rtp/233.18.204.34:5140
+#EXTINF:-1 group-title="标清频道",CCTV15SD
+http://218.81.49.95:10010/rtp/233.18.204.34:5140
+
+#EXTINF:-1 group-title="标清频道",CCTV17SD
+http://58.35.103.48:3333/rtp/233.18.204.35:5140
+#EXTINF:-1 group-title="标清频道",CCTV17SD
+http://218.81.49.95:10010/rtp/233.18.204.35:5140
+
+#EXTINF:-1 group-title="标清频道",CGTNSD
+http://58.35.103.48:3333/rtp/233.18.204.28:5140
+#EXTINF:-1 group-title="标清频道",CGTNSD
+http://218.81.49.95:10010/rtp/233.18.204.28:5140
+
+## --- 地方卫视 (SD) ---
+#EXTINF:-1 group-title="标清频道",东方卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.1:5140
+#EXTINF:-1 group-title="标清频道",东方卫视SD
+http://218.81.49.95:10010/rtp/233.18.204.1:5140
+
+#EXTINF:-1 group-title="标清频道",湖南卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.119:5140
+#EXTINF:-1 group-title="标清频道",湖南卫视SD
+http://218.81.49.95:10010/rtp/233.18.204.119:5140
+
+#EXTINF:-1 group-title="标清频道",浙江卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.121:5140
+#EXTINF:-1 group-title="标清频道",浙江卫视SD
+http://218.81.49.95:10010/rtp/233.18.204.121:5140
+
+#EXTINF:-1 group-title="标清频道",江苏卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.120:5140
+#EXTINF:-1 group-title="标清频道",江苏卫视SD
+http://218.81.49.95:10010/rtp/233.18.204.120:5140
+
+#EXTINF:-1 group-title="标清频道",北京卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.210:5140
+http://58.35.103.48:3333/rtp/233.18.204.118:5140
+http://218.81.49.95:10010/rtp/233.18.204.210:5140
+http://218.81.49.95:10010/rtp/233.18.204.118:5140
+
+#EXTINF:-1 group-title="标清频道",广东卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.138:5140
+#EXTINF:-1 group-title="标清频道",广东卫视SD
+http://218.81.49.95:10010/rtp/233.18.204.138:5140
+
+#EXTINF:-1 group-title="标清频道",深圳卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.146:5140
+#EXTINF:-1 group-title="标清频道",深圳卫视SD
+http://218.81.49.95:10010/rtp/233.18.204.146:5140
+
+#EXTINF:-1 group-title="标清频道",山东卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.125:5140
+#EXTINF:-1 group-title="标清频道",山东卫视SD
+http://218.81.49.95:10010/rtp/233.18.204.125:5140
+
+#EXTINF:-1 group-title="标清频道",安徽卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.127:5140
+#EXTINF:-1 group-title="标清频道",安徽卫视SD
+http://218.81.49.95:10010/rtp/233.18.204.127:5140
+
+#EXTINF:-1 group-title="标清频道",四川卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.124:5140
+#EXTINF:-1 group-title="标清频道",四川卫视SD
+http://218.81.49.95:10010/rtp/233.18.204.124:5140
+
+#EXTINF:-1 group-title="标清频道",湖北卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.142:5140
+#EXTINF:-1 group-title="标清频道",湖北卫视SD
+http://218.81.49.95:10010/rtp/233.18.204.142:5140
+
+#EXTINF:-1 group-title="标清频道",天津卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.129:5140
+#EXTINF:-1 group-title="标清频道",天津卫视SD
+http://218.81.49.95:10010/rtp/233.18.204.129:5140
+
+#EXTINF:-1 group-title="标清频道",重庆卫视SD
+http://58.35.103.48:3333/rtp/233.18.204.143:5140
+#EXTINF:-1 group-title="标清频道",重庆卫视SD
+http://218.81.49.95:10010/rtp/233.18.204.143:5140
+
+## --- 上海本地及教育 (SD) ---
+#EXTINF:-1 group-title="标清频道",上海新闻综合SD
+http://58.35.103.48:3333/rtp/233.18.204.189:5140
+#EXTINF:-1 group-title="标清频道",上海新闻综合SD
+http://218.81.49.95:10010/rtp/233.18.204.189:5140
+
+#EXTINF:-1 group-title="标清频道",上海都市SD
+http://58.35.103.48:3333/rtp/233.18.204.2:5140
+#EXTINF:-1 group-title="标清频道",上海都市SD
+http://218.81.49.95:10010/rtp/233.18.204.2:5140
+
+#EXTINF:-1 group-title="标清频道",东方影视SD
+http://58.35.103.48:3333/rtp/233.18.204.4:5140
+#EXTINF:-1 group-title="标清频道",东方影视SD
+http://218.81.49.95:10010/rtp/233.18.204.4:5140
+
+#EXTINF:-1 group-title="标清频道",五星体育SD
+http://58.35.103.48:3333/rtp/233.18.204.6:5140
+#EXTINF:-1 group-title="标清频道",五星体育SD
+http://218.81.49.95:10010/rtp/233.18.204.6:5140
+
+#EXTINF:-1 group-title="标清频道",上海教育SD
+http://58.35.103.48:3333/rtp/233.18.204.11:5140
+#EXTINF:-1 group-title="标清频道",上海教育SD
+http://218.81.49.95:10010/rtp/233.18.204.11:5140
+
+#EXTINF:-1 group-title="标清频道",第一财经SD
+http://58.35.103.48:3333/rtp/233.18.204.5:5140
+#EXTINF:-1 group-title="标清频道",第一财经SD
+http://218.81.49.95:10010/rtp/233.18.204.5:5140
+
+## --- 卡通及专业频道 (SD) ---
+#EXTINF:-1 group-title="标清频道",金鹰卡通SD
+http://58.35.103.48:3333/rtp/233.18.204.150:5140
+#EXTINF:-1 group-title="标清频道",金鹰卡通SD
+http://218.81.49.95:10010/rtp/233.18.204.150:5140
+
+#EXTINF:-1 group-title="标清频道",卡酷少儿SD
+http://58.35.103.48:3333/rtp/233.18.204.152:5140
+#EXTINF:-1 group-title="标清频道",卡酷少儿SD
+http://218.81.49.95:10010/rtp/233.18.204.152:5140
+
+#EXTINF:-1 group-title="标清频道",哈哈炫动SD
+http://58.35.103.48:3333/rtp/233.18.204.7:5140
+#EXTINF:-1 group-title="标清频道",哈哈炫动SD
+http://218.81.49.95:10010/rtp/233.18.204.7:5140
+
+#EXTINF:-1 group-title="标清频道",游戏风云SD
+http://58.35.103.48:3333/rtp/233.18.204.13:5140
+#EXTINF:-1 group-title="标清频道",游戏风云SD
+http://218.81.49.95:10010/rtp/233.18.204.13:5140
+
+#EXTINF:-1 group-title="标清频道",法治天地SD
+http://58.35.103.48:3333/rtp/233.18.204.12:5140
+#EXTINF:-1 group-title="标清频道",法治天地SD
+http://218.81.49.95:10010/rtp/233.18.204.12:5140
+
+#EXTINF:-1 group-title="标清频道",金色学堂SD
+http://58.35.103.48:3333/rtp/233.18.204.14:5140
+#EXTINF:-1 group-title="标清频道",金色学堂SD
+http://218.81.49.95:10010/rtp/233.18.204.14:5140
