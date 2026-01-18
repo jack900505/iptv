@@ -840,11 +840,11 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="国际频道",NHK World Japan (English)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 group-title="欧美频道",NASA TV (Public)
+#EXTINF:-1 group-title="国际频道",NASA TV (Public)
 http://origin.akamaized.net/hls/live/50002/test79/master.m3u8
 
-#EXTINF:-1 group-title="欧美频道",ABC News (Samsung TV Plus)
+#EXTINF:-1 group-title="国际频道",ABC News (Samsung TV Plus)
 https://abclive-abcd.akamaized.net/hls/live/2042838/abcd/master.m3u8
 
-#EXTINF:-1 group-title="欧美频道",LiveNOW from FOX (Samsung TV Plus)
+#EXTINF:-1 group-title="国际频道",LiveNOW from FOX (Samsung TV Plus)
 https://lnc-fox-foxnewsnow.tubi.video/playlist.m3u8
