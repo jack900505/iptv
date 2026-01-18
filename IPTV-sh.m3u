@@ -225,6 +225,25 @@ http://58.35.95.16:9898/rtp/233.18.204.187:5140
 #EXTINF:-1 group-title="央视频道",CGTN
 http://116.237.123.65:9088/rtp/233.18.204.28:5140
 
+#EXTINF:-1 group-title="央视频道",CGTN英语
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+
+#EXTINF:-1 group-title="央视频道",CGTN记录
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+
+#EXTINF:-1 group-title="央视频道",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+
+#EXTINF:-1 group-title="央视频道",CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+
+#EXTINF:-1 group-title="央视频道",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
+
+#EXTINF:-1 group-title="央视频道",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+
+
 # --- 卫视频道 ---
 
 #EXTINF:-1 tvg-id="ChongqingTV" group-title="卫视频道",重庆卫视
