@@ -831,12 +831,12 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 group-title="国际频道",France 24 English
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+https://fps-vh.akamaized.net/delivery/live/610009/live_610009.m3u8
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/index.m3u8
 
 #EXTINF:-1 group-title="国际频道",DW News (Deutsche Welle English)
+https://dwamdliveios-i.akamaihd.net/hls/live/620987/live_620987/playlist.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-#EXTINF:-1 group-title="国际频道",Channel NewsAsia (CNA - Singapore)
-http://cna_hls-lh.akamaihd.net/i/cna_en@8000/master.m3u8
-
