@@ -834,7 +834,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 group-title="国际频道",Bloomberg TV (Global)
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:-1 group-title="国际频道",Al Jazeera English
+#EXTINF:-1 group-title="国际频道",Al Jazeera English(半岛)
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 group-title="国际频道",NHK World Japan (English)
