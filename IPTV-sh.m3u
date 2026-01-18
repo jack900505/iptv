@@ -821,24 +821,35 @@ https://mgev.188766.xyz/?migutoken=29c98d3da54083854814a9c2ed8c757b&id=hk_hoy&ty
 
 
 ## --- 国际频道 (HD) ---
-#EXTINF:-1 group-title="国际频道",NHK
-http://zqjy.info/tv/Njk1MTEx?channel=NHK%20World%20Japan
+#EXTINF:-1 group-title="国际频道",BBC News (Global HD)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 group-title="国际频道",BBC News
-http://zqjy.info/tv/NzQ1Mzgz?channel=BBC%20News%20(720p)
+#EXTINF:-1 group-title="国际频道",CNN International (Europe)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="国际频道",Fox News Now
-http://zqjy.info/tv/NDczMzk3?channel=Fox%20News%20Now
+#EXTINF:-1 group-title="国际频道",ABC News (US)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
-#EXTINF:-1 group-title="国际频道",ABC News
-http://zqjy.info/tv/NDA0MjAx?channel=ABC%20News
-http://zqjy.info/tv/Njg0MTA2?channel=ABC%20News
+#EXTINF:-1 group-title="国际频道",LiveNOW from FOX (US)
+https://fox-foxnewsnow-1-us.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="国际频道",新加坡中文台
-http://zqjy.info/tv/NjU1Nzk2?channel=%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%AD%E6%96%87%E5%8F%B0
+#EXTINF:-1 group-title="国际频道",Sky News (UK)
+https://skynews-skynews-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="国际频道",CityNews Toronto
-http://zqjy.info/tv/NzEzODky?channel=CityNews%20Toronto%20(720p)
+#EXTINF:-1 group-title="国际频道",NBC News Now
+https://nbcnews-nbcnewsnow-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="国际频道",Bloomberg TV (US)
+https://live-bloomberg-us-east.tubi.video/live-bloomberg-us-east/playlist.m3u8
+
+#EXTINF:-1 group-title="国际频道",Euronews (English)
+https://euronews-euronews-world-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="国际频道",Al Jazeera English (半岛电视台)
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+
+#EXTINF:-1 group-title="国际频道",NHK World Japan (English)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 
 
