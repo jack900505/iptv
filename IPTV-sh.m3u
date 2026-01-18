@@ -830,3 +830,30 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="国际频道",Al Jazeera English(半岛电视台)
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1 group-title="国际频道",Bloomberg TV (财经-国际版)
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/global_live.m3u8
+
+#EXTINF:-1 group-title="国际频道",DW English (德国之声-英语)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="国际频道",France 24 (法国新闻-英语)
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="国际频道",CNA (亚洲新闻台-新加坡)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48677aeb56679/index.m3u8
+
+#EXTINF:-1 group-title="国际频道",Sky News (国际版-Akamai源)
+https://skynews-live-huluhls.akamaized.net/hls/live/2002256/sn_international/index.m3u8
+
+#EXTINF:-1 group-title="国际频道",NASA TV (美国宇航局)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 group-title="国际频道",NHK World (日本-英语)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 group-title="国际频道",TRT World (土耳其-英语)
+https://trtworld-live.cdn.wp.trt.com.tr/live/trtworld/master.m3u8
+
+#EXTINF:-1 group-title="国际频道",Euronews English (欧洲新闻)
+https://euronews-euronews-world-1-eu.rakuten.wurl.tv/playlist.m3u8
+
