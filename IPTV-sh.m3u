@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml，http://epg.51zmt.top:8000/e.xml"
 
 # --- 央视频道 ---
 
@@ -770,17 +770,18 @@ http://218.1.145.125:8088/rtp/233.18.204.39:5140
 http://58.35.95.16:9898/rtp/233.18.204.39:5140
 
 ## --- 香港本地频道 (HD) ---
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="港台频道",凤凰中文
+
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="港台频道",凤凰中文
 https://mgev.188766.xyz/?migutoken=224c3251edf637830af6c16a012522df&id=fhzw&pp=1
 https://mgev.188766.xyz/?migutoken=101350486f910f2e2038994864e0e8e1&id=hk_fhzw&type=dy
 https://cdn6.101.qzz.io/163189/fhzw
 
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="港台频道",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="港台频道",凤凰资讯
 https://mgev.188766.xyz/?migutoken=e0173d279954b8653bfeeecb32e65d79&id=fhzx&pp=1
 https://mgev.188766.xyz/?migutoken=eb63af441c07edbdf45e3b69692c917e&id=hk_fhzx&type=dy
 https://cdn6.101.qzz.io/163189/fhzx
 
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="港台频道",凤凰香港
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="港台频道",凤凰香港
 https://mgev.188766.xyz/?migutoken=20caec526398afec73103d2cf03a7fd9&id=fhhk&pp=1
 https://mgev.188766.xyz/?migutoken=872901c5d9ada9c9a5b2f1d2e73483a5&id=hk_fhhk&type=dy
 https://cdn6.101.qzz.io/163189/fhhk
@@ -795,49 +796,51 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/明珠台.png" group-title="港台频道",明珠台
 https://mgev.188766.xyz/?migutoken=1f2d32def44abb770b13e453e3963a88&id=hk_mzt&type=dy
 
-https://mgev.188766.xyz/?migutoken=04408651c8b50c20b90d007642d18994&id=hk_fct4k&type=dy
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="港台频道",无线新闻
 https://mgev.188766.xyz/?migutoken=95d1bef01d7ac9a189a9c4e7f9f2a986&id=hk_wxxw&type=dy
+
 #EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/NOW新闻台.png" group-title="港台频道",Now新闻台
 https://mgev.188766.xyz/?migutoken=bb9b46e529706eb9a9831e12246eb9bd&id=hk_now&type=dy
-#EXTINF:-1 group-title="港台频道",Now财经
+
+#EXTINF:-1 tvg-name="Now财经" tvg-logo="https://epg.112114.xyz/logo/NOW.png" group-title="港台频道",Now财经
 http://hls.168.us.kg/u/333/master.m3u8
+
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/tvbplus.png" group-title="港台频道",TVB Plus
 https://mgev.188766.xyz/?migutoken=62e3ad870a29b0cf3d26653aba8edbf9&id=hk_tvbp&type=dy
+
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/TVB星河.png" group-title="港台频道",TVB星河
 https://mgev.188766.xyz/?migutoken=368936488f55a04bccd9f58db06ab2f0&id=hk_tvbxh&type=dy
+
 #EXTINF:-1 tvg-id="TVB功夫" tvg-name="TVB功夫" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/TVB功夫.png" group-title="港台频道",TVB功夫
 https://mgev.188766.xyz/?migutoken=c1c5c13d74f735838c0a91e628b98320&id=hk_yzwx&type=dy
+
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/八度空间.png" group-title="港台频道",八度空间
 https://mgev.188766.xyz/?migutoken=595696e6c94246b91d99101b23dbd584&id=hk_8tv&type=dy
-#EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channelu.png" group-title="港台频道",CHU
-https://mgev.188766.xyz/?migutoken=0cc72049d36f0c1be4685fb51f76ab8f&id=hk_chu&type=dy
-#EXTINF:-1 tvg-id="CH5" tvg-name="CH5" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel5.png" group-title="港台频道",CH5
-https://mgev.188766.xyz/?migutoken=3fe56d1d52f51f7b54269457a7ed71ab&id=hk_ch5&type=dy
-#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel8.png" group-title="港台频道",CH8
-https://mgev.188766.xyz/?migutoken=c5d3b325fb79e65e4703f89f1632aa61&id=hk_ch8&type=dy
+
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/澳视澳门.png" group-title="港台频道",澳视澳门
 https://mgev.188766.xyz/?migutoken=c38b58415e652020b0366c392c43f041&id=hk_asam&type=dy
-#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/HOY77.png" group-title="港台频道",HOY77
+
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/HOY77.png" group-title="港台频道",HOY77
 https://mgev.188766.xyz/?migutoken=29c98d3da54083854814a9c2ed8c757b&id=hk_hoy&type=dy
 
 
 ## --- 国际频道 (HD) ---
-#EXTINF:-1 group-title="国际频道",BBC News (Global HD)
+
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://epg.112114.xyz/logo/BBCNews.png" group-title="国际频道",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 group-title="国际频道",ABC News Live (US)
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://epg.112114.xyz/logo/ABC.png" group-title="国际频道",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 group-title="国际频道",Al Jazeera English(半岛电视台)
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://epg.112114.xyz/logo/Aljazeera.png" group-title="国际频道",Al Jazeera English
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 group-title="国际频道",France 24 English
+#EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://epg.112114.xyz/logo/France24.png" group-title="国际频道",France 24 English
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 https://fps-vh.akamaized.net/delivery/live/610009/live_610009.m3u8
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/index.m3u8
 
-#EXTINF:-1 group-title="国际频道",DW News (Deutsche Welle English)
+#EXTINF:-1 tvg-name="DW English" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="国际频道",DW News
 https://dwamdliveios-i.akamaihd.net/hls/live/620987/live_620987/playlist.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
