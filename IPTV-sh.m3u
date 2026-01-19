@@ -208,9 +208,6 @@ http://58.35.95.16:9898/rtp/233.18.204.186:5140
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="央视频道",CETV1
 http://58.35.103.48:3333/rtp/233.18.204.98:5140
 http://218.81.49.95:10010/rtp/233.18.204.98:5140
-http://116.237.123.65:9088/rtp/233.18.204.98:5140
-http://218.1.145.125:8088/rtp/233.18.204.98:5140
-http://58.35.95.16:9898/rtp/233.18.204.98:5140
 
 #EXTINF:-1 tvg-id="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="央视频道",CETV4
 http://58.35.103.48:3333/rtp/233.18.204.111:5140
