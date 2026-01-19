@@ -802,7 +802,7 @@ https://mgev.188766.xyz/?migutoken=95d1bef01d7ac9a189a9c4e7f9f2a986&id=hk_wxxw&t
 #EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/NOW新闻台.png" group-title="港台频道",Now新闻台
 https://mgev.188766.xyz/?migutoken=bb9b46e529706eb9a9831e12246eb9bd&id=hk_now&type=dy
 
-#EXTINF:-1 tvg-name="Now财经" tvg-logo="https://epg.112114.xyz/logo/NOW.png" group-title="港台频道",Now财经
+#EXTINF:-1 tvg-name="NOW财经" tvg-logo="https://epg.112114.xyz/logo/NOW.png" group-title="港台频道",Now财经
 http://hls.168.us.kg/u/333/master.m3u8
 
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/tvbplus.png" group-title="港台频道",TVB Plus
