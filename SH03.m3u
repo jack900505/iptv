@@ -161,7 +161,7 @@ http://180.173.123.28:9999/rtp/233.18.204.222:5140
 http://180.173.123.28:9999/rtp/233.18.204.221:5140
 #EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://epg.v1.mk/logo/三沙卫视.png" group-title="地方卫视",三沙卫视
 http://180.173.123.28:9999/rtp/233.18.204.172:5140
-#EXTINF:-1 tvg-id="旅游卫视" tvg-logo="https://epg.v1.mk/logo/旅游卫视.png" group-title="地方卫视",海南卫视 (旅游)
+#EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://epg.v1.mk/logo/旅游卫视.png" group-title="地方卫视",海南卫视 (旅游)
 http://180.173.123.28:9999/rtp/233.18.204.102:5140
 #EXTINF:-1 tvg-id="延边卫视" tvg-logo="https://epg.v1.mk/logo/延边卫视.png" group-title="地方卫视",延边卫视
 http://180.173.123.28:9999/rtp/233.18.204.155:5140
@@ -213,7 +213,7 @@ http://180.173.123.28:9999/rtp/233.18.204.49:5140
 http://180.173.123.28:9999/rtp/233.18.204.43:5140
 #EXTINF:-1 tvg-id="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="收费频道",乐游
 http://180.173.123.28:9999/rtp/233.18.204.47:5140
-#EXTINF:-1 tvg-id="文化精品" tvg-logo="https://epg.v1.mk/logo/文化精品.png" group-title="收费频道",文化精品
+#EXTINF:-1 tvg-id="央视文化精品" tvg-logo="https://epg.v1.mk/logo/文化精品.png" group-title="收费频道",文化精品
 http://180.173.123.28:9999/rtp/233.18.204.186:5140
 
 # --- 其他频道 ---
@@ -221,7 +221,7 @@ http://180.173.123.28:9999/rtp/233.18.204.186:5140
 http://180.173.123.28:9999/rtp/233.18.204.98:5140
 #EXTINF:-1 tvg-id="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="其他频道",CETV-4 教育
 http://180.173.123.28:9999/rtp/233.18.204.111:5140
-#EXTINF:-1 tvg-id="CETV早期教育" tvg-logo="https://epg.v1.mk/logo/CETV早期教育.png" group-title="其他频道",CETV 早期教育
+#EXTINF:-1 tvg-id="早期教育" tvg-logo="https://epg.v1.mk/logo/CETV早期教育.png" group-title="其他频道",CETV 早期教育
 http://180.173.123.28:9999/rtp/233.18.204.187:5140
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="其他频道",CGTN 英语新闻
 http://180.173.123.28:9999/rtp/233.18.204.28:5140
