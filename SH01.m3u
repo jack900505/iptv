@@ -533,7 +533,7 @@ https://cdn4.aace.eu.org/litv.php?id=litv-ftv03
 
 ## --- 国际频道 (HD) ---
 
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC News" tvg-logo="https://epg.v1.mk/logo/BBCNews.png" group-title="国际频道",BBC News
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC News" tvg-logo="https://r2.1975654.xyz/logo/BBC_News_HD_Logo.svg" group-title="国际频道",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News Live" tvg-logo="https://pub-fd298672cf8543bbbae5e97ba98a3cd1.r2.dev/ABC%20NEWS.png" group-title="国际频道",ABC News Live
