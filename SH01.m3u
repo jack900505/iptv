@@ -242,7 +242,7 @@ http://58.35.103.48:3333/rtp/233.18.204.231:5140
 # --- 香港频道 ---
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港台频道1",翡翠台
 http://74.91.26.218:82/live/jade.m3u8
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="港台频道1",无线新闻台
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="港台频道1",无线新闻
 http://74.91.26.218:82/live/inews.m3u8
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/tvbplus.png" group-title="港台频道1",TVB Plus
 http://74.91.26.218:82/live/j2.m3u8
@@ -250,13 +250,13 @@ http://74.91.26.218:82/live/j2.m3u8
 http://74.91.26.218:82/live/tvbxh.m3u8
 #EXTINF:-1 tvg-id="TVB千禧经典台" tvg-name="TVB千禧经典台" tvg-logo="https://r2.1975654.xyz/logo/TVB_Classic_International.png" group-title="港台频道1",TVB千禧经典台
 http://74.91.26.218:82/live/tvbjd.m3u8
-#EXTINF:-1 tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://r2.1975654.xyz/logo/Now_baogu.png" group-title="港台频道1",NOW星影台
+#EXTINF:-1 tvg-id="星影" tvg-name="星影" tvg-logo="https://r2.1975654.xyz/logo/Now_baogu.png" group-title="港台频道1",NOW星影台
 http://74.91.26.218:82/live/nowxy.m3u8
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://r2.1975654.xyz/logo/Now_baogu.png" group-title="港台频道1",NOW爆谷台
 http://74.91.26.218:82/live/nowbg.m3u8
-#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://r2.1975654.xyz/logo/Mei_Ah_Movies_Channel_logo.png" group-title="港台频道1",美亚电影台
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://r2.1975654.xyz/logo/Mei_Ah_Movies_Channel_logo.png" group-title="港台频道1",美亚电影
 http://74.91.26.218:82/live/mydy.m3u8
-#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://epg.iill.top/logo/天映频道.png" group-title="港台频道1",天映频道
+#EXTINF:-1 tvg-id="天映CM+" tvg-name="天映CM+" tvg-logo="https://epg.iill.top/logo/天映频道.png" group-title="港台频道1",天映频道
 http://74.91.26.218:82/live/typd.m3u8
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.iill.top/logo/天映经典.png" group-title="港台频道1",天映经典
 http://74.91.26.218:82/live/tyjd.m3u8
