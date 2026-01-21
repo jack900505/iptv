@@ -45,7 +45,7 @@ http://58.35.103.48:3333/rtp/233.18.204.69:5140
 http://58.35.103.48:3333/rtp/233.18.204.70:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://58.35.103.48:3333/rtp/233.18.204.71:5140
-#EXTINF:-1 tvg-id="CCTV5Plus" tvg-logo="https://epg.v1.mk/logo/CCTV5Plus.png" group-title="央视频道",CCTV-5+ 体育
+#EXTINF:-1 tvg-id="CCTV5Plus" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育
 http://58.35.103.48:3333/rtp/233.18.204.67:5140
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://58.35.103.48:3333/rtp/233.18.204.72:5140
