@@ -19,11 +19,11 @@ http://124.93.18.238:9002/hls/6/index.m3u8
 http://124.93.18.238:9002/hls/7/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视频道",CCTV-8
 http://124.93.18.238:9002/hls/8/index.m3u8
-#EXTINF:-1 tvg-name="cctv-9" tvg-logo="https://logo.catvod.com/cctv-9.png" group-title="央视频道",cctv-9
+#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="https://logo.catvod.com/CCTV-9.png" group-title="央视频道",CCTV-9
 http://124.93.18.238:9002/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视频道",CCTV-10
 http://124.93.18.238:9002/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="cctv-11" tvg-logo="https://logo.catvod.com/cctv-11.png" group-title="央视频道",cctv-11
+#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="https://logo.catvod.com/CCTV-11.png" group-title="央视频道",CCTV-11
 http://124.93.18.238:9002/hls/11/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视频道",CCTV-12
 http://124.93.18.238:9002/hls/12/index.m3u8
