@@ -87,7 +87,7 @@ http://180.173.123.28:9999/rtp/233.18.204.53:5140
 http://180.173.123.28:9999/rtp/233.18.204.63:5140
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海频道",哈哈炫动
 http://180.173.123.28:9999/rtp/233.18.204.7:5140
-#EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="上海频道",金色学堂
+#EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="上海频道",金色学堂
 http://180.173.123.28:9999/rtp/233.18.204.66:5140
 #EXTINF:-1 tvg-id="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海频道",东方影视
 http://180.173.123.28:9999/rtp/233.18.204.4:5140
