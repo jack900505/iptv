@@ -542,7 +542,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://r2.1975654.xyz/logo/Aljazeera-logo-English.png" group-title="国际频道",Al Jazeera English
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="France 24 English" tvg-name="France 24 English" tvg-logo="https://epg.v1.mk/logo/France24.png" group-title="国际频道",France 24 English
+#EXTINF:-1 tvg-id="France 24 English" tvg-name="France 24 English" tvg-logo="https://r2.1975654.xyz/logo/France_24_logo_(2013).svg" group-title="国际频道",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/index.m3u8
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 
