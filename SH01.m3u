@@ -278,13 +278,13 @@ http://74.91.26.218:82/live/ttvnews.m3u8
 http://74.91.26.218:82/live/ttvzh.m3u8
 #EXTINF:-1 tvg-id="台视财经" tvg-name="台视财经" tvg-logo="https://epg.iill.top/logo/台视财经.png" group-title="港台频道1",台视财经
 http://74.91.26.218:82/live/ttvcj.m3u8
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://epg.iill.top/logo/华视.png" group-title="港台频道1",華視
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.iill.top/logo/华视.png" group-title="港台频道1",华视
 http://74.91.26.218:82/live/cts.m3u8
 #EXTINF:-1 tvg-id="華視新聞資訊台" tvg-name="華視新聞資訊台" tvg-logo="https://r2.1975654.xyz/logo/%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A%E5%8F%B0.png" group-title="港台频道1",華視新聞資訊台
 http://74.91.26.218:82/live/ctsnews.m3u8
 #EXTINF:-1 tvg-id="華視教育體育文化台" tvg-name="華視教育體育文化台" tvg-logo="https://r2.1975654.xyz/logo/%E8%8F%AF%E8%A6%96%E6%95%99%E8%82%B2%E9%AB%94%E8%82%B2%E6%96%87%E5%8C%96%E5%8F%B0_logo.jpg" group-title="港台频道1",華視教育體育文化台
 http://74.91.26.218:82/live/ctsjy.m3u8
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://epg.iill.top/logo/民视.png" group-title="港台频道1",民視
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.iill.top/logo/民视.png" group-title="港台频道1",民视
 http://74.91.26.218:82/live/ftv.m3u8
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.iill.top/logo/民視新聞台.png" group-title="港台频道1",民視新聞台
 http://74.91.26.218:82/live/ftvnews.m3u8
