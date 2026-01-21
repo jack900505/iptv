@@ -37,7 +37,7 @@ http://218.81.49.95:10010/rtp/233.18.204.71:5140
 http://218.1.145.125:8088/rtp/233.18.204.71:5140
 http://58.35.95.16:9898/rtp/233.18.204.71:5140
 
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视频道",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视频道",CCTV5+
 http://116.233.50.245:8222/rtp/233.18.204.67:5140
 http://58.35.103.48:3333/rtp/233.18.204.67:5140
 http://218.81.49.95:10010/rtp/233.18.204.67:5140
