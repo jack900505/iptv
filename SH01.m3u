@@ -266,9 +266,9 @@ http://74.91.26.218:82/live/tyjd.m3u8
 http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.iill.top/logo/中视新闻.png" group-title="港台频道1",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="https://epg.iill.top/logo/中视经典.png" group-title="港台频道1",中视经典
+#EXTINF:-1 tvg-id="中視经典台" tvg-name="中視经典台" tvg-logo="https://epg.iill.top/logo/中视经典.png" group-title="港台频道1",中視经典台
 http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="https://epg.iill.top/logo/中视菁采.png" group-title="港台频道1",中视菁采
+#EXTINF:-1 tvg-id="中视菁采" tvg-name="中視菁采台" tvg-logo="https://epg.iill.top/logo/中視菁采台.png" group-title="港台频道1",中視菁采台
 http://74.91.26.218:82/live/ctvjc.m3u8
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.iill.top/logo/台视.png" group-title="港台频道1",台视
 http://74.91.26.218:82/live/ttv.m3u8
@@ -288,7 +288,7 @@ http://74.91.26.218:82/live/ctsjy.m3u8
 http://74.91.26.218:82/live/ftv.m3u8
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.iill.top/logo/民視新聞台.png" group-title="港台频道1",民視新聞台
 http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.iill.top/logo/民視台灣台.png.png" group-title="港台频道1",民視台灣台
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.iill.top/logo/民視台灣台.png" group-title="港台频道1",民視台灣台
 http://74.91.26.218:82/live/ftvtw.m3u8
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://epg.iill.top/logo/民視第一台.png" group-title="港台频道1",民視第一台
 http://74.91.26.218:82/live/ftvdy.m3u8
