@@ -221,7 +221,7 @@ http://180.157.165.97:1984/rtp/233.18.204.186:5140
 http://180.157.165.97:1984/rtp/233.18.204.98:5140
 #EXTINF:-1 tvg-id="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="其他频道",CETV-4 教育
 http://180.157.165.97:1984/rtp/233.18.204.111:5140
-#EXTINF:-1 tvg-id="CETV早期教育" tvg-logo="https://epg.v1.mk/logo/CETV早期教育.png" group-title="其他频道",CETV 早期教育
+#EXTINF:-1 tvg-id="早期教育" tvg-logo="https://epg.v1.mk/logo/CETV早期教育.png" group-title="其他频道",CETV 早期教育
 http://180.157.165.97:1984/rtp/233.18.204.187:5140
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="其他频道",CGTN 英语新闻
 http://180.157.165.97:1984/rtp/233.18.204.28:5140
