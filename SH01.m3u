@@ -308,7 +308,7 @@ http://74.91.26.218:82/live/ptsty.m3u8
 http://74.91.26.218:82/live/ptsse.m3u8
 
 
-## --- 香港本地频道 (HD) ---
+## --- 港台频道2-可能失效 ---
 
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="港台频道2",凤凰中文
 https://mgev.188766.xyz/?migutoken=224c3251edf637830af6c16a012522df&id=fhzw&pp=1
@@ -536,7 +536,7 @@ https://cdn4.aace.eu.org/litv.php?id=4gtv-4gtv010
 #EXTINF:-1 tvg-id="4gtv-4gtv048" tvg-name="非凡商業台" tvg-logo="https://epg.iill.top/logo/非凡商業台.png" group-title="港台频道2",非凡商業台
 https://cdn4.aace.eu.org/litv.php?id=4gtv-4gtv048
 #EXTINF:-1 tvg-id="litv-ftv03" tvg-name="VOA美國之音" tvg-logo="https://epg.iill.top/logo/VOA-美國之音.png" group-title="港台频道2",VOA美國之音
-https://cdn4.aace.eu.org/litv.php?id=litv-ftv0
+https://cdn4.aace.eu.org/litv.php?id=litv-ftv03
 
 
 ## --- 国际频道 (HD) ---
@@ -552,11 +552,9 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://epg.112114.xyz/logo/France24.png" group-title="国际频道",France 24 English
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-https://fps-vh.akamaized.net/delivery/live/610009/live_610009.m3u8
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/index.m3u8
 
 #EXTINF:-1 tvg-name="DW English" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="国际频道",DW News
-https://dwamdliveios-i.akamaihd.net/hls/live/620987/live_620987/playlist.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
