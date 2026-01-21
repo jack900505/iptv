@@ -55,7 +55,7 @@ http://124.77.177.88:5555/rtp/233.18.204.73:5140
 http://124.77.177.88:5555/rtp/233.18.204.74:5140
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视频道",CCTV-9 纪录
 http://124.77.177.88:5555/rtp/233.18.204.75:5140
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="央视频道",CCTV-10 科教
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视频道",CCTV-10 科教
 http://124.77.177.88:5555/rtp/233.18.204.76:5140
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
 http://124.77.177.88:5555/rtp/233.18.204.77:5140
