@@ -131,11 +131,24 @@ http://222.128.55.152:9080/live/fc.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://11.112114.xyz/logo/中天新闻.png" group-title="香港频道",中天新闻
 http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
 
+#EXTINF:-1 tvg-id="韩国阿里郎" tvg-name="韩国阿里郎" tvg-logo="https://r2.1975654.xyz/logo/Arirang-TV-Logo.svg.png" group-title="香港频道",韩国阿里郎
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="韩国国防" tvg-name="韩国国防" tvg-logo="https://11.112114.xyz/logo/韩国国防.png" group-title="香港频道",韩国国防
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="韩国新闻" tvg-name="韩国新闻" tvg-logo="https://r2.1975654.xyz/logo/Arirang-TV-Logo.svg.png" group-title="香港频道",韩国新闻
-http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="韩国EBS1" tvg-name="韩国EBS1" tvg-logo="https://r2.1975654.xyz/logo/韩国TBS.png" group-title="香港频道",韩国EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="韩国EBS2" tvg-name="韩国EBS2" tvg-logo="https://r2.1975654.xyz/logo/韩国TBS.png" group-title="香港频道",韩国EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="韩国EBSe" tvg-name="韩国EBSe" tvg-logo="https://r2.1975654.xyz/logo/韩国TBS.png" group-title="香港频道",韩国EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="韩国TBS" tvg-name="韩国TBS" tvg-logo="https://r2.1975654.xyz/logo/韩国TBS.png" group-title="香港频道",韩国TBS
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="韩国NBS" tvg-name="韩国NBS" tvg-logo="https://r2.1975654.xyz/logo/韩国NBS.png" group-title="香港频道",韩国NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="泰国News" tvg-name="泰国News" tvg-logo="https://r2.1975654.xyz/logo/泰国News.png" group-title="香港频道",泰国News
+http://news1.live14.com/stream/news1_hi.m3u8
 
 
 
