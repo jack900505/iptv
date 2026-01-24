@@ -1,1 +1,41 @@
 
+
+# --- 台湾频道 ---
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.iill.top/logo/中视.png" group-title="台湾频道",中视
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.iill.top/logo/中视新闻.png" group-title="台湾频道",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 tvg-id="中視经典台" tvg-name="中視经典台" tvg-logo="https://epg.iill.top/logo/中视经典.png" group-title="台湾频道",中視经典台
+http://74.91.26.218:82/live/ctvjd.m3u8
+#EXTINF:-1 tvg-id="中视菁采" tvg-name="中視菁采台" tvg-logo="https://epg.iill.top/logo/中視菁采台.png" group-title="台湾频道",中視菁采台
+http://74.91.26.218:82/live/ctvjc.m3u8
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.iill.top/logo/台视.png" group-title="台湾频道",台视
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.iill.top/logo/台视新闻.png" group-title="台湾频道",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://epg.iill.top/logo/台视综合.png" group-title="台湾频道",台视综合
+http://74.91.26.218:82/live/ttvzh.m3u8
+#EXTINF:-1 tvg-id="台视财经" tvg-name="台视财经" tvg-logo="https://epg.iill.top/logo/台视财经.png" group-title="台湾频道",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.iill.top/logo/华视.png" group-title="台湾频道",华视
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 tvg-id="華視新聞資訊台" tvg-name="華視新聞資訊台" tvg-logo="https://r2.1975654.xyz/logo/%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A%E5%8F%B0.png" group-title="台湾频道",華視新聞資訊台
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 tvg-id="華視教育體育文化台" tvg-name="華視教育體育文化台" tvg-logo="https://r2.1975654.xyz/logo/%E8%8F%AF%E8%A6%96%E6%95%99%E8%82%B2%E9%AB%94%E8%82%B2%E6%96%87%E5%8C%96%E5%8F%B0_logo.jpg" group-title="台湾频道",華視教育體育文化台
+http://74.91.26.218:82/live/ctsjy.m3u8
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.iill.top/logo/民视.png" group-title="台湾频道",民视
+http://74.91.26.218:82/live/ftv.m3u8
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.iill.top/logo/民視新聞台.png" group-title="台湾频道",民視新聞台
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.iill.top/logo/民視台灣台.png" group-title="台湾频道",民視台灣台
+http://74.91.26.218:82/live/ftvtw.m3u8
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://epg.iill.top/logo/民視第一台.png" group-title="台湾频道",民視第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="https://epg.iill.top/logo/公视.png" group-title="台湾频道",公視
+http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1 tvg-id="公视台语台" tvg-name="公視戲劇台" tvg-logo="https://epg.iill.top/logo/公視戲劇台.png" group-title="台湾频道",公視戲劇台
+http://74.91.26.218:82/live/ptsty.m3u8
+#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="https://r2.1975654.xyz/logo/PTS_XS_Logo.png" group-title="台湾频道",小公視
+http://74.91.26.218:82/live/ptsse.m3u8
+
+
