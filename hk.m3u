@@ -130,3 +130,14 @@ http://jnzq.ohoyee.com:9080/live/fc.m3u8
 http://222.128.55.152:9080/live/fc.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://11.112114.xyz/logo/中天新闻.png" group-title="香港频道",中天新闻
 http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-id="韩国国防" tvg-name="韩国国防" tvg-logo="https://11.112114.xyz/logo/韩国国防.png" group-title="香港频道",韩国国防
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="韩国新闻" tvg-name="韩国新闻" tvg-logo="https://r2.1975654.xyz/logo/Arirang-TV-Logo.svg.png" group-title="香港频道",韩国新闻
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+
+
+
+
+
