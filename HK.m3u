@@ -1,6 +1,35 @@
+#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+// ==============================
+// Group: 香港频道
+// ==============================
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/62WM7
+https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
+
 # --- 香港频道 ---
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港台频道1",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港频道",翡翠台
 http://74.91.26.218:82/live/jade.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港频道",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港频道",翡翠台
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港频道",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港频道",翡翠台
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港频道",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港频道",翡翠台
+https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
+
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港频道",翡翠台4k
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="香港频道",翡翠台4k
+http://r.jdshipin.com/n90gt
+
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="港台频道1",无线新闻
 http://74.91.26.218:82/live/inews.m3u8
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/sparkssssssssss/epg/logo/tvbplus.png" group-title="港台频道1",TVB Plus
@@ -9,6 +38,8 @@ http://74.91.26.218:82/live/j2.m3u8
 http://74.91.26.218:82/live/tvbxh.m3u8
 #EXTINF:-1 tvg-id="TVB千禧经典台" tvg-name="TVB千禧经典台" tvg-logo="https://r2.1975654.xyz/logo/TVB_Classic_International.png" group-title="港台频道1",TVB千禧经典台
 http://74.91.26.218:82/live/tvbjd.m3u8
+#EXTINF:-1 tvg-name="NOW财经" tvg-logo="https://epg.112114.xyz/logo/NOW.png" group-title="香港频道",Now财经
+http://hls.168.us.kg/u/333/master.m3u8
 #EXTINF:-1 tvg-id="星影" tvg-name="星影" tvg-logo="https://r2.1975654.xyz/logo/Now_baogu.png" group-title="港台频道1",NOW星影台
 http://74.91.26.218:82/live/nowxy.m3u8
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://r2.1975654.xyz/logo/Now_baogu.png" group-title="港台频道1",NOW爆谷台
@@ -20,43 +51,7 @@ http://74.91.26.218:82/live/typd.m3u8
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.iill.top/logo/天映经典.png" group-title="港台频道1",天映经典
 http://74.91.26.218:82/live/tyjd.m3u8
 
-# --- 台湾频道 ---
-#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.iill.top/logo/中视.png" group-title="港台频道1",中视
-http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.iill.top/logo/中视新闻.png" group-title="港台频道1",中视新闻
-http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 tvg-id="中視经典台" tvg-name="中視经典台" tvg-logo="https://epg.iill.top/logo/中视经典.png" group-title="港台频道1",中視经典台
-http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1 tvg-id="中视菁采" tvg-name="中視菁采台" tvg-logo="https://epg.iill.top/logo/中視菁采台.png" group-title="港台频道1",中視菁采台
-http://74.91.26.218:82/live/ctvjc.m3u8
-#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.iill.top/logo/台视.png" group-title="港台频道1",台视
-http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.iill.top/logo/台视新闻.png" group-title="港台频道1",台视新闻
-http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://epg.iill.top/logo/台视综合.png" group-title="港台频道1",台视综合
-http://74.91.26.218:82/live/ttvzh.m3u8
-#EXTINF:-1 tvg-id="台视财经" tvg-name="台视财经" tvg-logo="https://epg.iill.top/logo/台视财经.png" group-title="港台频道1",台视财经
-http://74.91.26.218:82/live/ttvcj.m3u8
-#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.iill.top/logo/华视.png" group-title="港台频道1",华视
-http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 tvg-id="華視新聞資訊台" tvg-name="華視新聞資訊台" tvg-logo="https://r2.1975654.xyz/logo/%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A%E5%8F%B0.png" group-title="港台频道1",華視新聞資訊台
-http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 tvg-id="華視教育體育文化台" tvg-name="華視教育體育文化台" tvg-logo="https://r2.1975654.xyz/logo/%E8%8F%AF%E8%A6%96%E6%95%99%E8%82%B2%E9%AB%94%E8%82%B2%E6%96%87%E5%8C%96%E5%8F%B0_logo.jpg" group-title="港台频道1",華視教育體育文化台
-http://74.91.26.218:82/live/ctsjy.m3u8
-#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.iill.top/logo/民视.png" group-title="港台频道1",民视
-http://74.91.26.218:82/live/ftv.m3u8
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.iill.top/logo/民視新聞台.png" group-title="港台频道1",民視新聞台
-http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.iill.top/logo/民視台灣台.png" group-title="港台频道1",民視台灣台
-http://74.91.26.218:82/live/ftvtw.m3u8
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://epg.iill.top/logo/民視第一台.png" group-title="港台频道1",民視第一台
-http://74.91.26.218:82/live/ftvdy.m3u8
-#EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="https://epg.iill.top/logo/公视.png" group-title="港台频道1",公視
-http://74.91.26.218:82/live/pts.m3u8
-#EXTINF:-1 tvg-id="公视台语台" tvg-name="公視戲劇台" tvg-logo="https://epg.iill.top/logo/公視戲劇台.png" group-title="港台频道1",公視戲劇台
-http://74.91.26.218:82/live/ptsty.m3u8
-#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="https://r2.1975654.xyz/logo/PTS_XS_Logo.png" group-title="港台频道1",小公視
-http://74.91.26.218:82/live/ptsse.m3u8
+
 
 
 ## --- 港台频道2-可能失效 ---
