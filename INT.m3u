@@ -17,3 +17,11 @@ https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-fr
 #EXTINF:-1 tvg-id="DW English" tvg-name="DW English" tvg-logo="https://r2.1975654.xyz/logo/DW_News_Logo.png" group-title="国际频道",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://r2.1975654.xyz/logo/CNN.png" group-title="国际频道",CNN
+http://panelguys.top:8080/txd7Fd/030774/104884
+
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://r2.1975654.xyz/logo/CNA.png" group-title="国际频道",CNA
+http://panelguys.top:8080/txd7Fd/030774/104884
+CNA,https://live1.mediadesk.al/cnatvlive.m3u8
+
