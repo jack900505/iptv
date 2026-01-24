@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml" 
 
 // ==============================
 // Group: 香港频道
