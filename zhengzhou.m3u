@@ -547,30 +547,14 @@ http://171.8.104.234:8800/rtp/239.16.10.193:2000
 
 # --- 香港频道 ---
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰中文
-https://t.freetv.fun/live/feng-huang-wei-shi.php
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰中文
 https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰中文
+https://t.freetv.fun/live/feng-huang-wei-shi.php
 
 
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
 https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
-https://t.freetv.fun/live/feng-huang-zi-xun-1.php
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
-https://t.freetv.fun/live/feng-huang-wei-shi.php
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
-https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
-https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
-http://live4play.uk/livehttpplay?channel_id=30015
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
+凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
 https://stream1.freetv.fun/9cb86e77a2a19ece5a5ee90f18c9dd578dab4a8f3a0844fbd56b6a87db6746fb.ctv
 
 
@@ -686,35 +670,6 @@ http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="韩国NBS" tvg-name="韩国NBS" tvg-logo="https://r2.1975654.xyz/logo/韩国NBS.png" group-title="香港频道",韩国NBS
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-
-// ==============================
-// Group: 国际频道
-// ==============================
-
-
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC News" tvg-logo="https://r2.1975654.xyz/logo/BBC_News_HD_Logo.png" group-title="国际频道",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News Live" tvg-logo="https://r2.1975654.xyz/logo/ABC%20NEWS.png" group-title="国际频道",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://r2.1975654.xyz/logo/Aljazeera-logo-English.png" group-title="国际频道",Al Jazeera English
-https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-id="France 24 English" tvg-name="France 24 English" tvg-logo="https://r2.1975654.xyz/logo/France_24_logo_(2013).png" group-title="国际频道",France 24 English
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/index.m3u8
-#EXTINF:-1 tvg-id="France 24 English" tvg-name="France 24 English" tvg-logo="https://r2.1975654.xyz/logo/France_24_logo_(2013).png" group-title="国际频道",France 24 English
-https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DW English" tvg-name="DW English" tvg-logo="https://r2.1975654.xyz/logo/DW_News_Logo.png" group-title="国际频道",DW News
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://r2.1975654.xyz/logo/CNN.png" group-title="国际频道",CNN
-http://panelguys.top:8080/txd7Fd/030774/104884
-
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://r2.1975654.xyz/logo/CNA.png" group-title="国际频道",CNA
-http://panelguys.top:8080/txd7Fd/030774/104884
-CNA,https://live1.mediadesk.al/cnatvlive.m3u8
 
 #EXTINF:-1 tvg-id="泰国News" tvg-name="泰国News" tvg-logo="https://r2.1975654.xyz/logo/泰国News.png" group-title="香港频道",泰国News
 http://news1.live14.com/stream/news1_hi.m3u8
