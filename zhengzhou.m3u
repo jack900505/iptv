@@ -261,7 +261,7 @@ http://171.8.104.234:8800/rtp/239.16.20.18:10180
 http://171.8.104.234:8800/rtp/239.16.20.139:11390
 #EXTINF:-1 tvg-id="新乡公共" tvg-logo="https://epg.v1.mk/logo/新乡公共.png" group-title="河南频道",新乡公共
 http://171.8.104.234:8800/rtp/239.16.20.154:11540
-#EXTINF:-1 tvg-id="封丘新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="河南频道",封丘新闻综合
+#EXTINF:-1 tvg-id="封丘新闻综合" tvg-logo="https://epg.v1.mk/logo/封丘新闻综合.png" group-title="河南频道",封丘新闻综合
 http://171.8.104.234:8800/rtp/239.16.20.19:10190
 #EXTINF:-1 tvg-id="获嘉综合" tvg-logo="https://epg.v1.mk/logo/获嘉综合.png" group-title="河南频道",获嘉综合
 http://171.8.104.234:8800/rtp/239.16.20.25:10250
@@ -295,7 +295,7 @@ http://171.8.104.234:8800/rtp/239.16.20.144:11440
 http://171.8.104.234:8800/rtp/239.16.20.193:11930
 #EXTINF:-1 tvg-id="内黄综合" tvg-logo="https://epg.v1.mk/logo/内黄综合.png" group-title="河南频道",内黄综合
 http://171.8.104.234:8800/rtp/239.16.20.228:12280
-#EXTINF:-1 tvg-id="鹤壁新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="河南频道",鹤壁新闻综合
+#EXTINF:-1 tvg-id="鹤壁新闻综合" tvg-logo="https://epg.v1.mk/logo/鹤壁新闻综合.png" group-title="河南频道",鹤壁新闻综合
 http://171.8.104.234:8800/rtp/239.16.20.142:11420
 #EXTINF:-1 tvg-id="淇县电视台" tvg-logo="https://epg.v1.mk/logo/淇县电视台.png" group-title="河南频道",淇县电视台
 http://171.8.104.234:8800/rtp/239.16.20.205:12050
